@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Venocyber_Tech",
-    "theme": "Bryant_bot-md",
+    "AUTHOR": "BRYANT_Tech",
+    "theme": "𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "MÅDÅRÅ_MD",
+            "botName": "𝚳𝚫𝐃𝚫𝚪𝚫_𝚳𝐃",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To Venocyber Tech",
+            "greet2" : "Thanks To 𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮",
             "pic1": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg", 
             "greet" : "Believe it",
             "dotbody" : "I decided being Pirate King.",
